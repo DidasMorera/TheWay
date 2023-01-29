@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964900373529",
+    "project_id": "theway-21ab8",
+    "storage_bucket": "theway-21ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964900373529:android:a7b01e81a862f22b3bd688",
+        "android_client_info": {
+          "package_name": "com.pdm.theway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964900373529-dtet60cc77asiir7o5vikq61em3jr00h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4SHi306dmBXBZxEQY0_Fg8NrZWr5kui0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964900373529-dtet60cc77asiir7o5vikq61em3jr00h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

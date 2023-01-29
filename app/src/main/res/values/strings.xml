@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TheWay</string>
+    <string name="email">email</string>
+    <string name="the">the</string>
+    <string name="senha">senha</string>
+    <string name="the_way">The Way</string>
+    <string name="to_register">to register</string>
+    <string name="entrar">Entrar</string>
+    <string name="crie_uma_conta_clicando_aqui">Crie uma conta clicando aqui</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_deslogar">Deslogar</string>
+    <string name="logoutfragment">LogOutFragment</string>
+    <string name="title_activity_home_s">HomeS</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="nome">nome</string>
+    <string name="todos">TODO</string>
+    <string name="emaill">ema</string>
+    <string name="username">username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="title_activity_home_ss">HomeSsActivity</string>
+    <string name="title_activity_tela">Tela</string>
+    <string name="title_activity_okay">Okay</string>
+    <string name="deslogarrr">Deslogar</string>
+    <string name="title_activity_nav">Nav</string>
+</resources>
