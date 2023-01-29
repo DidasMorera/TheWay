@@ -36,4 +36,9 @@
     <string name="title_activity_okay">Okay</string>
     <string name="deslogarrr">Deslogar</string>
     <string name="title_activity_nav">Nav</string>
+    <string name="audio_name">Audio Name</string>
+    <string name="upload_song">Upload Song</string>
+    <string name="no_file_selected">No File Selected</string>
+    <string name="upload">Upload</string>
+    <string name="textinput">textInput</string>
 </resources>

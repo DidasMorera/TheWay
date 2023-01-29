@@ -9,21 +9,24 @@
         android:id="@+id/nav_home"
         android:name="com.pdm.theway.ui.home.HomeFragment"
         android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" >
-        <action
-            android:id="@+id/action_nav_home_self"
-            app:destination="@id/nav_home" />
-    </fragment>
+        tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.pdm.theway.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_favoritos"
+        android:name="com.pdm.theway.ui.favoritos.FavoritosFragment"
+        android:label="Favoritos"
+        tools:layout="@layout/fragment_favoritos" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.pdm.theway.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_deslogar"
+        android:name="com.pdm.theway.ui.deslogarapp.DeslogarFragment"
+        android:label="Deslogar"
+        tools:layout="@layout/fragment_deslogar" />
+
+    <fragment
+        android:id="@+id/nav_contacto"
+        android:name="com.pdm.theway.ui.contacto.ContatoFragment"
+        android:label="Contacto"
+        tools:layout="@layout/fragment_contato"
+        />
 </navigation>
