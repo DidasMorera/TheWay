@@ -5,7 +5,9 @@ import com.google.firebase.database.Exclude;
 public class Songs {
     public String mediaId, songDuration,title, songUrl;
 
-    public Songs(String songDuration, String title, String songUrl) {
+    public  Songs(){ }
+
+    public Songs(String title, String songDuration, String songUrl) {
 
         if(title.trim().equals("")){
             title = "No title";
